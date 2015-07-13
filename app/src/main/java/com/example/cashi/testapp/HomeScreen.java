@@ -43,7 +43,7 @@ public class HomeScreen extends ActionBarActivity {
                 } else {
                     theColor = "#00ff00";
                     background.setBackgroundColor(Color.parseColor(theColor));
-                    background.setText("que?");
+                    background.setText("Otro");
                 }
 
             }
